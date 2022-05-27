@@ -1,4 +1,3 @@
-from flask import Flask, request, jsonify
 import uvicorn
 from fastapi import FastAPI, encoders
 from starlette import responses
